@@ -1,0 +1,7 @@
+name: FarmPig
+version: 1.0
+author: qebusted
+main: de.qebusted.testplugin.tigermc.TigerMC
+
+commands:
+  farmpig:
